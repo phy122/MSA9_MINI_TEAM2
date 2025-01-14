@@ -1,4 +1,9 @@
-📖 **더조은 전자 도서관 웹 사이트**  
+<p align="center">
+  <img width="200px" src="https://github.com/user-attachments/assets/5980773e-0f9a-4b3a-bbfd-c1d0b771584f" />
+</p>
+</p>
+<h1 align="middle">더조은 도서관</h1>
+<h3 align="middle">전자 도서관 웹 사이트</h3>
 
 ![전자 도서관 썸네일](https://github.com/user-attachments/assets/5a58c652-ccda-4ae6-b9b0-5a59ae34000c)
 
